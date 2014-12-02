@@ -1,0 +1,17 @@
+
+
+Introduction -- decsribe the dataset and methods used to clean it up
+Directed Graph by Month --
+    - See how the graph evolved over time in this period
+    - Graphs of centrality measures (eigenvector, katz, pagerank)
+    - Graphs of Degree Distribution over the whole graph
+Community Detection --
+    - Modularity
+    - Methods to find groups within the graph
+    - See how groups evolved
+    - Math behind the modularity analysis (use of Lagrange multipliers and eigenvals)
+SVD --
+    - Can the graph be approximated using a low rank (2)
+    - Find clusters using the low rank approx
+Interpretation of Data --
+Conclusion

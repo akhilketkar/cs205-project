@@ -1,0 +1,81 @@
+\documentclass[12pt]{article}
+\usepackage{fullpage,amsmath,amsfonts,mathpazo,microtype,nicefrac,graphicx,fancyhdr,listings,hyperref,csvsimple}
+\author{Akhil Ketkar Arjun Sanghvi \\
+	\texttt{akhilketkar@g.harvard.edu} \texttt{asanghvi@g.harvard.edu}}
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{AM205 2014 Final Project -- AK AS}
+\lstset{
+	language=Python,
+	showstringspaces=false,
+	formfeed=\newpage,
+	tabsize=4,
+	commentstyle=\itshape,
+	basicstyle=\ttfamily\scriptsize,
+	morekeywords={models, lambda, forms}
+}
+        
+% Macro definitions
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\p}{\partial}
+\newcommand{\Trans}{\mathsf{T}}
+
+% include graphics
+% \includegraphics[width=0.8\textwidth]{figureProb40}
+
+% include code 
+% 
+
+% include csv
+% \csvautotabular{charge_output.csv}
+
+
+\title{Spectral Analysis of Enron Email Data}
+\begin{document}
+\maketitle
+\section{Introduction}
+	The Enron email dataset is interesting because it contains real email data from employees at a major organization that was involved in a massive fraud. The dataset contains a large amount of information that can be used to answer a number of interesting questions in areas such as Social Network Analysis, Organizational Behavior, such as: who are the key actors in the information network, are there communities in within the network, how do these features of the network evolve over time, does information flow over a network look different in a "crisis" etc. In addition to network or graph theoretic techniques, the dataset can be analyzed from an NLP perspective. 
+
+\section{Brief Background on Enron}
+
+\section{Data and Resulting Graphs}
+	What dataset was used \\
+	Preprocessing done \\ 
+	Kind of graphs produced \\
+	Basic metrics on the graph such as degree distributions, diameter, components etc.
+
+\section{Centrality Measures} 
+	\subsection{Eigenvalue Based Centrality Measures} Describe how the methods work and why they are a good measure of centrality to begin with
+	\begin{enumerate}
+		\item Eigenvalue Centrality
+		\item Katz Centrality
+		\item PageRank 
+	\end{enumerate}
+	
+	\subsection{Other measures of Centrality} Why might they be useful
+	\begin{enumerate}
+	\item In and Out degree
+	\item Betweenness centrality
+	\end{enumerate}
+
+\section{Communities} Brief background on homophily and measures of it on a graph. Idea of modularity
+	\subsection{Spectral Partitioning} 
+		Laplacian of the graph. Why is it important.  \\
+		How can we use the second lowest eigenvector of the laplacian to split the partition. \\
+		Application to the Enron dataset \\
+	\subsection{Modularity Maximization Using Spectral Techniques} 
+		Modularity matrix \\
+		Maximization Problem and solution using Lagrangian \\
+		Communities found in the Enron Dataset 
+	\subsection{Singular Value Decomposiiton}
+		Low Rank Approximation of Martix \\
+		Community Detection using SVD \\
+
+\section{Evolution Across Time} How various  features have evolved over time
+
+\section{Conclusion}
+
+\end{document}
