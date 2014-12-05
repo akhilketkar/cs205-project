@@ -1,12 +1,14 @@
 \BOOKMARK [1][-]{section.1}{Introduction}{}% 1
 \BOOKMARK [1][-]{section.2}{Brief Background on Enron}{}% 2
 \BOOKMARK [1][-]{section.3}{Data and Resulting Graphs}{}% 3
-\BOOKMARK [1][-]{section.4}{Centrality Measures}{}% 4
-\BOOKMARK [2][-]{subsection.4.1}{Eigenvalue Based Centrality Measures}{section.4}% 5
-\BOOKMARK [2][-]{subsection.4.2}{Other measures of Centrality}{section.4}% 6
-\BOOKMARK [1][-]{section.5}{Communities}{}% 7
-\BOOKMARK [2][-]{subsection.5.1}{Spectral Partitioning}{section.5}% 8
-\BOOKMARK [2][-]{subsection.5.2}{Modularity Maximization Using Spectral Techniques}{section.5}% 9
-\BOOKMARK [2][-]{subsection.5.3}{Singular Value Decomposiiton}{section.5}% 10
-\BOOKMARK [1][-]{section.6}{Evolution Across Time}{}% 11
-\BOOKMARK [1][-]{section.7}{Conclusion}{}% 12
+\BOOKMARK [2][-]{subsection.3.1}{Dataset}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Graphs}{section.3}% 5
+\BOOKMARK [1][-]{section.4}{Centrality Measures}{}% 6
+\BOOKMARK [2][-]{subsection.4.1}{Eigenvector Centrality}{section.4}% 7
+\BOOKMARK [2][-]{subsection.4.2}{Other measures of Centrality}{section.4}% 8
+\BOOKMARK [1][-]{section.5}{Communities}{}% 9
+\BOOKMARK [2][-]{subsection.5.1}{Spectral Partitioning}{section.5}% 10
+\BOOKMARK [2][-]{subsection.5.2}{Modularity Maximization Using Spectral Techniques}{section.5}% 11
+\BOOKMARK [2][-]{subsection.5.3}{Singular Value Decomposiiton}{section.5}% 12
+\BOOKMARK [1][-]{section.6}{Evolution Across Time}{}% 13
+\BOOKMARK [1][-]{section.7}{Conclusion}{}% 14
