@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  5 DEC 2014 10:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  10 DEC 2014 01:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -327,263 +327,31 @@ ode.tex
 \c@csvinputline=\count120
 \c@csvrow=\count121
 \c@csvcol=\count122
-) (/usr/local/texlive/2014/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2014/03/24 3.9k The Babel package
-
-(/usr/local/texlive/2014/texmf-dist/tex/generic/babel-english/english.ldf
-Language: english 2012/08/20 v3.3p English support from the babel system
-
-(/usr/local/texlive/2014/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2014/03/24 3.9k Babel common definitions
-\babel@savecnt=\count123
-\U@D=\dimen123
-)
-\l@canadian = a dialect from \language\l@american 
-\l@australian = a dialect from \language\l@british 
-\l@newzealand = a dialect from \language\l@british 
-))
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2014/04/30 v1.2b Input encoding file
-\inpenc@prehook=\toks25
-\inpenc@posthook=\toks26
-
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/utf8.def
-File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
-Now handling font encoding OML ...
-... no UTF-8 mapping file for font encoding OML
-Now handling font encoding T1 ...
-... processing UTF-8 mapping file for font encoding T1
-
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/t1enc.dfu
-File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
-   defining Unicode char U+00A1 (decimal 161)
-   defining Unicode char U+00A3 (decimal 163)
-   defining Unicode char U+00AB (decimal 171)
-   defining Unicode char U+00BB (decimal 187)
-   defining Unicode char U+00BF (decimal 191)
-   defining Unicode char U+00C0 (decimal 192)
-   defining Unicode char U+00C1 (decimal 193)
-   defining Unicode char U+00C2 (decimal 194)
-   defining Unicode char U+00C3 (decimal 195)
-   defining Unicode char U+00C4 (decimal 196)
-   defining Unicode char U+00C5 (decimal 197)
-   defining Unicode char U+00C6 (decimal 198)
-   defining Unicode char U+00C7 (decimal 199)
-   defining Unicode char U+00C8 (decimal 200)
-   defining Unicode char U+00C9 (decimal 201)
-   defining Unicode char U+00CA (decimal 202)
-   defining Unicode char U+00CB (decimal 203)
-   defining Unicode char U+00CC (decimal 204)
-   defining Unicode char U+00CD (decimal 205)
-   defining Unicode char U+00CE (decimal 206)
-   defining Unicode char U+00CF (decimal 207)
-   defining Unicode char U+00D0 (decimal 208)
-   defining Unicode char U+00D1 (decimal 209)
-   defining Unicode char U+00D2 (decimal 210)
-   defining Unicode char U+00D3 (decimal 211)
-   defining Unicode char U+00D4 (decimal 212)
-   defining Unicode char U+00D5 (decimal 213)
-   defining Unicode char U+00D6 (decimal 214)
-   defining Unicode char U+00D8 (decimal 216)
-   defining Unicode char U+00D9 (decimal 217)
-   defining Unicode char U+00DA (decimal 218)
-   defining Unicode char U+00DB (decimal 219)
-   defining Unicode char U+00DC (decimal 220)
-   defining Unicode char U+00DD (decimal 221)
-   defining Unicode char U+00DE (decimal 222)
-   defining Unicode char U+00DF (decimal 223)
-   defining Unicode char U+00E0 (decimal 224)
-   defining Unicode char U+00E1 (decimal 225)
-   defining Unicode char U+00E2 (decimal 226)
-   defining Unicode char U+00E3 (decimal 227)
-   defining Unicode char U+00E4 (decimal 228)
-   defining Unicode char U+00E5 (decimal 229)
-   defining Unicode char U+00E6 (decimal 230)
-   defining Unicode char U+00E7 (decimal 231)
-   defining Unicode char U+00E8 (decimal 232)
-   defining Unicode char U+00E9 (decimal 233)
-   defining Unicode char U+00EA (decimal 234)
-   defining Unicode char U+00EB (decimal 235)
-   defining Unicode char U+00EC (decimal 236)
-   defining Unicode char U+00ED (decimal 237)
-   defining Unicode char U+00EE (decimal 238)
-   defining Unicode char U+00EF (decimal 239)
-   defining Unicode char U+00F0 (decimal 240)
-   defining Unicode char U+00F1 (decimal 241)
-   defining Unicode char U+00F2 (decimal 242)
-   defining Unicode char U+00F3 (decimal 243)
-   defining Unicode char U+00F4 (decimal 244)
-   defining Unicode char U+00F5 (decimal 245)
-   defining Unicode char U+00F6 (decimal 246)
-   defining Unicode char U+00F8 (decimal 248)
-   defining Unicode char U+00F9 (decimal 249)
-   defining Unicode char U+00FA (decimal 250)
-   defining Unicode char U+00FB (decimal 251)
-   defining Unicode char U+00FC (decimal 252)
-   defining Unicode char U+00FD (decimal 253)
-   defining Unicode char U+00FE (decimal 254)
-   defining Unicode char U+00FF (decimal 255)
-   defining Unicode char U+0102 (decimal 258)
-   defining Unicode char U+0103 (decimal 259)
-   defining Unicode char U+0104 (decimal 260)
-   defining Unicode char U+0105 (decimal 261)
-   defining Unicode char U+0106 (decimal 262)
-   defining Unicode char U+0107 (decimal 263)
-   defining Unicode char U+010C (decimal 268)
-   defining Unicode char U+010D (decimal 269)
-   defining Unicode char U+010E (decimal 270)
-   defining Unicode char U+010F (decimal 271)
-   defining Unicode char U+0110 (decimal 272)
-   defining Unicode char U+0111 (decimal 273)
-   defining Unicode char U+0118 (decimal 280)
-   defining Unicode char U+0119 (decimal 281)
-   defining Unicode char U+011A (decimal 282)
-   defining Unicode char U+011B (decimal 283)
-   defining Unicode char U+011E (decimal 286)
-   defining Unicode char U+011F (decimal 287)
-   defining Unicode char U+0130 (decimal 304)
-   defining Unicode char U+0131 (decimal 305)
-   defining Unicode char U+0132 (decimal 306)
-   defining Unicode char U+0133 (decimal 307)
-   defining Unicode char U+0139 (decimal 313)
-   defining Unicode char U+013A (decimal 314)
-   defining Unicode char U+013D (decimal 317)
-   defining Unicode char U+013E (decimal 318)
-   defining Unicode char U+0141 (decimal 321)
-   defining Unicode char U+0142 (decimal 322)
-   defining Unicode char U+0143 (decimal 323)
-   defining Unicode char U+0144 (decimal 324)
-   defining Unicode char U+0147 (decimal 327)
-   defining Unicode char U+0148 (decimal 328)
-   defining Unicode char U+014A (decimal 330)
-   defining Unicode char U+014B (decimal 331)
-   defining Unicode char U+0150 (decimal 336)
-   defining Unicode char U+0151 (decimal 337)
-   defining Unicode char U+0152 (decimal 338)
-   defining Unicode char U+0153 (decimal 339)
-   defining Unicode char U+0154 (decimal 340)
-   defining Unicode char U+0155 (decimal 341)
-   defining Unicode char U+0158 (decimal 344)
-   defining Unicode char U+0159 (decimal 345)
-   defining Unicode char U+015A (decimal 346)
-   defining Unicode char U+015B (decimal 347)
-   defining Unicode char U+015E (decimal 350)
-   defining Unicode char U+015F (decimal 351)
-   defining Unicode char U+0160 (decimal 352)
-   defining Unicode char U+0161 (decimal 353)
-   defining Unicode char U+0162 (decimal 354)
-   defining Unicode char U+0163 (decimal 355)
-   defining Unicode char U+0164 (decimal 356)
-   defining Unicode char U+0165 (decimal 357)
-   defining Unicode char U+016E (decimal 366)
-   defining Unicode char U+016F (decimal 367)
-   defining Unicode char U+0170 (decimal 368)
-   defining Unicode char U+0171 (decimal 369)
-   defining Unicode char U+0178 (decimal 376)
-   defining Unicode char U+0179 (decimal 377)
-   defining Unicode char U+017A (decimal 378)
-   defining Unicode char U+017B (decimal 379)
-   defining Unicode char U+017C (decimal 380)
-   defining Unicode char U+017D (decimal 381)
-   defining Unicode char U+017E (decimal 382)
-   defining Unicode char U+200C (decimal 8204)
-   defining Unicode char U+2013 (decimal 8211)
-   defining Unicode char U+2014 (decimal 8212)
-   defining Unicode char U+2018 (decimal 8216)
-   defining Unicode char U+2019 (decimal 8217)
-   defining Unicode char U+201A (decimal 8218)
-   defining Unicode char U+201C (decimal 8220)
-   defining Unicode char U+201D (decimal 8221)
-   defining Unicode char U+201E (decimal 8222)
-   defining Unicode char U+2030 (decimal 8240)
-   defining Unicode char U+2031 (decimal 8241)
-   defining Unicode char U+2039 (decimal 8249)
-   defining Unicode char U+203A (decimal 8250)
-   defining Unicode char U+2423 (decimal 9251)
-)
-Now handling font encoding OT1 ...
-... processing UTF-8 mapping file for font encoding OT1
-
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ot1enc.dfu
-File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
-   defining Unicode char U+00A1 (decimal 161)
-   defining Unicode char U+00A3 (decimal 163)
-   defining Unicode char U+00B8 (decimal 184)
-   defining Unicode char U+00BF (decimal 191)
-   defining Unicode char U+00C5 (decimal 197)
-   defining Unicode char U+00C6 (decimal 198)
-   defining Unicode char U+00D8 (decimal 216)
-   defining Unicode char U+00DF (decimal 223)
-   defining Unicode char U+00E6 (decimal 230)
-   defining Unicode char U+00EC (decimal 236)
-   defining Unicode char U+00ED (decimal 237)
-   defining Unicode char U+00EE (decimal 238)
-   defining Unicode char U+00EF (decimal 239)
-   defining Unicode char U+00F8 (decimal 248)
-   defining Unicode char U+0131 (decimal 305)
-   defining Unicode char U+0141 (decimal 321)
-   defining Unicode char U+0142 (decimal 322)
-   defining Unicode char U+0152 (decimal 338)
-   defining Unicode char U+0153 (decimal 339)
-   defining Unicode char U+2013 (decimal 8211)
-   defining Unicode char U+2014 (decimal 8212)
-   defining Unicode char U+2018 (decimal 8216)
-   defining Unicode char U+2019 (decimal 8217)
-   defining Unicode char U+201C (decimal 8220)
-   defining Unicode char U+201D (decimal 8221)
-)
-Now handling font encoding OMS ...
-... processing UTF-8 mapping file for font encoding OMS
-
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/omsenc.dfu
-File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
-   defining Unicode char U+00A7 (decimal 167)
-   defining Unicode char U+00B6 (decimal 182)
-   defining Unicode char U+00B7 (decimal 183)
-   defining Unicode char U+2020 (decimal 8224)
-   defining Unicode char U+2021 (decimal 8225)
-   defining Unicode char U+2022 (decimal 8226)
-)
-Now handling font encoding OMX ...
-... no UTF-8 mapping file for font encoding OMX
-Now handling font encoding U ...
-... no UTF-8 mapping file for font encoding U
-Now handling font encoding PD1 ...
-... no UTF-8 mapping file for font encoding PD1
-   defining Unicode char U+00A9 (decimal 169)
-   defining Unicode char U+00AA (decimal 170)
-   defining Unicode char U+00AE (decimal 174)
-   defining Unicode char U+00BA (decimal 186)
-   defining Unicode char U+02C6 (decimal 710)
-   defining Unicode char U+02DC (decimal 732)
-   defining Unicode char U+200C (decimal 8204)
-   defining Unicode char U+2026 (decimal 8230)
-   defining Unicode char U+2122 (decimal 8482)
-   defining Unicode char U+2423 (decimal 9251)
-))
-(./writeup_enron_project.aux)
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2014/03/04 1.5c listings language file
+) (./writeup_enron_project.aux)
 \openout1 = `writeup_enron_project.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Try loading font information for OT1+ppl on input line 25.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 39.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
-LaTeX Info: Redefining \microtypecontext on input line 25.
+LaTeX Info: Redefining \microtypecontext on input line 39.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -599,17 +367,17 @@ File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
 )
 (/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count124
-\scratchdimen=\dimen124
+\scratchcounter=\count123
+\scratchdimen=\dimen123
 \scratchbox=\box30
-\nofMPsegments=\count125
-\nofMParguments=\count126
-\everyMPshowfont=\toks27
-\MPscratchCnt=\count127
-\MPscratchDim=\dimen125
-\MPnumerator=\count128
-\makeMPintoPDFobject=\count129
-\everyMPtoPDFconversion=\toks28
+\nofMPsegments=\count124
+\nofMParguments=\count125
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count126
+\MPscratchDim=\dimen124
+\MPnumerator=\count127
+\makeMPintoPDFobject=\count128
+\everyMPtoPDFconversion=\toks26
 ) (/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -625,9 +393,9 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\c@lstlisting=\count130
+\c@lstlisting=\count129
 \AtBeginShipoutBox=\box31
-Package hyperref Info: Link coloring OFF on input line 25.
+Package hyperref Info: Link coloring OFF on input line 39.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -635,55 +403,62 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count131
+\c@section@level=\count130
 )
-LaTeX Info: Redefining \ref on input line 25.
-LaTeX Info: Redefining \pageref on input line 25.
-LaTeX Info: Redefining \nameref on input line 25.
+LaTeX Info: Redefining \ref on input line 39.
+LaTeX Info: Redefining \pageref on input line 39.
+LaTeX Info: Redefining \nameref on input line 39.
 
 (./writeup_enron_project.out) (./writeup_enron_project.out)
 \@outlinefile=\write3
 \openout3 = `writeup_enron_project.out'.
 
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 27.
+
+<figures/EnronNetwork.jpg, id=72, 365.2044pt x 342.5598pt>
+File: figures/EnronNetwork.jpg Graphic file (type jpg)
+
+<use figures/EnronNetwork.jpg>
+Package pdftex.def Info: figures/EnronNetwork.jpg used on input line 43.
+(pdftex.def)             Requested size: 426.79134pt x 400.34381pt.
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 47.
 
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 27.
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 47.
 
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 27.
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 47.
 
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 15.0049pt on input line 27.
+(Font)              scaled to size 15.0049pt on input line 47.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 27.
+(Font)              scaled to size 10.42007pt on input line 47.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 27.
+(Font)              scaled to size 8.33606pt on input line 47.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 15.0049pt on input line 27.
+(Font)              scaled to size 15.0049pt on input line 47.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 27.
+(Font)              scaled to size 10.42007pt on input line 47.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 27.
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 27.
+(Font)              scaled to size 8.33606pt on input line 47.
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 47.
 
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1zplm.fd
@@ -697,132 +472,258 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `cmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
+ [1
+
+{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./figur
+es/EnronNetwork.jpg>]
 LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 27.
-
-Underfull \hbox (badness 10000) in paragraph at lines 30--31
-
- []
-
-[1
-
-{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 48--49
-
- []
-
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 51.
 LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 80.
-[2] <figureEnronOct2000.png, id=77, 1300.86pt x 1300.86pt>
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 64.
+
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[2
+
+] <figureEnronOct2000.png, id=89, 1300.86pt x 1300.86pt>
 File: figureEnronOct2000.png Graphic file (type png)
 
 <use figureEnronOct2000.png>
-Package pdftex.def Info: figureEnronOct2000.png used on input line 87.
+Package pdftex.def Info: figureEnronOct2000.png used on input line 75.
 (pdftex.def)             Requested size: 469.75502pt x 469.75827pt.
-
-<figureEnronOct2001.png, id=79, 1300.86pt x 1300.86pt>
+ [3]
+<figureEnronOct2001.png, id=97, 1300.86pt x 1300.86pt>
 File: figureEnronOct2001.png Graphic file (type png)
 
 <use figureEnronOct2001.png>
-Package pdftex.def Info: figureEnronOct2001.png used on input line 91.
+Package pdftex.def Info: figureEnronOct2001.png used on input line 79.
 (pdftex.def)             Requested size: 469.75502pt x 469.75827pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--93
-
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 79--80
+[][] 
  []
 
-[3] [4 <./figureEnronOct2000.png>]
+[4 <./figureEnronOct2000.png>]
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 12.50409pt on input line 97.
+(Font)              scaled to size 12.50409pt on input line 83.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 97.
+(Font)              scaled to size 9.37807pt on input line 83.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 97.
+(Font)              scaled to size 7.29405pt on input line 83.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 12.50409pt on input line 97.
+(Font)              scaled to size 12.50409pt on input line 83.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 97.
+(Font)              scaled to size 9.37807pt on input line 83.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 97.
+(Font)              scaled to size 7.29405pt on input line 83.
  [5 <./figureEnronOct2001.png>]
-<figureRightEigOct2000.png, id=97, 722.7pt x 505.89pt>
-File: figureRightEigOct2000.png Graphic file (type png)
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 101.
 
-<use figureRightEigOct2000.png>
-Package pdftex.def Info: figureRightEigOct2000.png used on input line 102.
-(pdftex.def)             Requested size: 328.82707pt x 230.1803pt.
 
-<figureLeftEigOct2000.png, id=98, 722.7pt x 505.89pt>
-File: figureLeftEigOct2000.png Graphic file (type png)
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-<use figureLeftEigOct2000.png>
-Package pdftex.def Info: figureLeftEigOct2000.png used on input line 104.
-(pdftex.def)             Requested size: 328.82707pt x 230.1803pt.
+[6] [7]
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--105
+LaTeX Warning: Citation `networkBook' on page 8 undefined on input line 167.
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 209--211
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--105
-
- []
-
-[6 <./figureRightEigOct2000.png> <./figureLeftEigOct2000.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 106--107
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--107
+Underfull \hbox (badness 10000) in paragraph at lines 229--230
 
  []
 
+<figureEnronPartition.png, id=146, 1167.36125pt x 1163.34625pt>
+File: figureEnronPartition.png Graphic file (type png)
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--121
+<use figureEnronPartition.png>
+Package pdftex.def Info: figureEnronPartition.png used on input line 240.
+(pdftex.def)             Requested size: 469.75502pt x 468.13495pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 240--241
+[][] 
+ []
+
+[9] [10 <./figureEnronPartition.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 276--279
 
  []
 
+<figureEnronPartitionMult.png, id=163, 1167.36125pt x 1163.34625pt>
+File: figureEnronPartitionMult.png Graphic file (type png)
 
-Underfull \hbox (badness 10000) in paragraph at lines 126--128
+<use figureEnronPartitionMult.png>
+Package pdftex.def Info: figureEnronPartitionMult.png used on input line 284.
+(pdftex.def)             Requested size: 469.75502pt x 468.13495pt.
 
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 284--285
+[][] 
  []
 
-[7]
-Underfull \hbox (badness 10000) in paragraph at lines 144--145
+[11] <figures/SingularValues.png, id=173, 722.7pt x 505.89pt>
+File: figures/SingularValues.png Graphic file (type png)
+
+<use figures/SingularValues.png>
+Package pdftex.def Info: figures/SingularValues.png used on input line 292.
+(pdftex.def)             Requested size: 469.75502pt x 328.8323pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 292--293
+[][] 
+ []
+
+<figures/ProjectionPC.png, id=174, 1084.05pt x 722.7pt> [12 <./figureEnronParti
+tionMult.png>]
+File: figures/ProjectionPC.png Graphic file (type png)
+ <use figures/ProjectionPC.png>
+Package pdftex.def Info: figures/ProjectionPC.png used on input line 295.
+(pdftex.def)             Requested size: 469.75502pt x 313.16995pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 295--296
+[][] 
+ []
+
+[13 <./figures/SingularValues.png>]
+<figures/Timeseries_Edges.png, id=186, 1249.66875pt x 431.6125pt>
+File: figures/Timeseries_Edges.png Graphic file (type png)
+
+<use figures/Timeseries_Edges.png>
+Package pdftex.def Info: figures/Timeseries_Edges.png used on input line 319.
+(pdftex.def)             Requested size: 469.75502pt x 162.24284pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 319--322
+[][] 
+ []
+
+<figures/Timeseries_Nodes.png, id=187, 1247.66125pt x 431.6125pt>
+File: figures/Timeseries_Nodes.png Graphic file (type png)
+
+<use figures/Timeseries_Nodes.png>
+Package pdftex.def Info: figures/Timeseries_Nodes.png used on input line 325.
+(pdftex.def)             Requested size: 469.75502pt x 162.4997pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 325--328
+[][] 
+ []
+
+<figures/Timeseries_GiantDiameter.png, id=188, 1239.63126pt x 431.6125pt>
+[14 <./figures/ProjectionPC.png> <./figures/Timeseries_Edges.png>]
+File: figures/Timeseries_GiantDiameter.png Graphic file (type png)
+
+<use figures/Timeseries_GiantDiameter.png>
+Package pdftex.def Info: figures/Timeseries_GiantDiameter.png used on input lin
+e 331.
+(pdftex.def)             Requested size: 469.75502pt x 163.55344pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 331--334
+[][] 
+ []
+
+<figures/Timeseries_GiantSize.png, id=195, 1247.66125pt x 424.58624pt>
+File: figures/Timeseries_GiantSize.png Graphic file (type png)
+
+<use figures/Timeseries_GiantSize.png>
+Package pdftex.def Info: figures/Timeseries_GiantSize.png used on input line 33
+7.
+(pdftex.def)             Requested size: 469.75502pt x 159.85435pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 337--340
+[][] 
+ []
+
+
+<figures/Timeseries_ClusteringCoefficient.png, id=196, 1244.65pt x 431.6125pt>
+File: figures/Timeseries_ClusteringCoefficient.png Graphic file (type png)
+
+<use figures/Timeseries_ClusteringCoefficient.png>
+Package pdftex.def Info: figures/Timeseries_ClusteringCoefficient.png used on i
+nput line 343.
+(pdftex.def)             Requested size: 469.75502pt x 162.90143pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 343--346
+[][] 
+ []
+
+<figures/Timeseries_PathLength.png, id=197, 1232.605pt x 431.6125pt> [15 <./fig
+ures/Timeseries_Nodes.png> <./figures/Timeseries_GiantDiameter.png> <./figures/
+Timeseries_GiantSize.png>]
+File: figures/Timeseries_PathLength.png Graphic file (type png)
+ <use figures/Timeseries_PathLength.png>
+Package pdftex.def Info: figures/Timeseries_PathLength.png used on input line 3
+49.
+(pdftex.def)             Requested size: 469.75502pt x 164.48863pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 349--352
+[][] 
+ []
+
+<figures/Timeseries_PowerLaw.png, id=205, 1244.65pt x 440.64626pt>
+File: figures/Timeseries_PowerLaw.png Graphic file (type png)
+
+<use figures/Timeseries_PowerLaw.png>
+Package pdftex.def Info: figures/Timeseries_PowerLaw.png used on input line 355
+.
+(pdftex.def)             Requested size: 469.75502pt x 166.311pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 355--358
+[][] 
+ []
+
+[16 <./figures/Timeseries_ClusteringCoefficient.png> <./figures/Timeseries_Path
+Length.png> <./figures/Timeseries_PowerLaw.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 372--373
 []\OT1/ppl/m/n/12 (+20) http://www.nytimes.com/2006/01/18/business/worldbusines
 s/18iht-
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 151.
-[8]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 151.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 384.
+[17]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 384.
  (./writeup_enron_project.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 151.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 151.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 384.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 384.
 Package rerunfilecheck Info: File `writeup_enron_project.out' has not changed.
-(rerunfilecheck)             Checksum: 5D135985A282F1686D4DEC84A77BE63D;877.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 151.
+(rerunfilecheck)             Checksum: DB2ABB9084C5510E1DC32766B0F20E8E;1106.
+
+
+LaTeX Warning: There were undefined references.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 384.
  ) 
 Here is how much of TeX's memory you used:
- 10246 strings out of 493117
- 158721 string characters out of 6135433
- 281417 words of memory out of 5000000
- 13426 multiletter control sequences out of 15000+600000
- 29197 words of font info for 134 fonts, out of 8000000 for 9000
+ 9679 strings out of 493117
+ 153641 string characters out of 6135433
+ 298394 words of memory out of 5000000
+ 12815 multiletter control sequences out of 15000+600000
+ 36074 words of font info for 152 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,6n,43p,1121b,364s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 40i,11n,43p,698b,444s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/tex
-live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texl
-ive/2014/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb></usr/local/texlive/
-2014/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2014/te
-xmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2014/texmf-dis
-t/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on writeup_enron_project.pdf (8 pages, 752976 bytes).
+exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
+xlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texl
+ive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
+ve/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texliv
+e/2014/texmf-dist/fonts/type1/public/mathpazo/fplmr.pfb></usr/local/texlive/201
+4/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb></usr/local/texlive/2014/te
+xmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2014/texmf-dis
+t/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts
+/type1/urw/palatino/uplri8a.pfb>
+Output written on writeup_enron_project.pdf (17 pages, 2294991 bytes).
 PDF statistics:
- 153 PDF objects out of 1000 (max. 8388607)
- 127 compressed objects within 2 object streams
- 31 named destinations out of 1000 (max. 500000)
- 17541 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 268 PDF objects out of 1000 (max. 8388607)
+ 210 compressed objects within 3 object streams
+ 69 named destinations out of 1000 (max. 500000)
+ 18127 words of extra memory for PDF output out of 20736 (max. 10000000)
 
